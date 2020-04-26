@@ -1,2 +1,2 @@
 # Automatic-Character-Generation-with-GAN-MNIST
-O conteúdo se refere a um exemplo de aplicação de GAN (Generative Adversarial Networks). O objetivo é gerar caracteres de forma automática. A base de dados usada para treinamento da rede neural foi o MNIST (dados de digitos manuescritos). O exemplo prático foi implementado no Jupyter Notebook. Usei o TensorFlow 2.0 e Python 3.
+The content refers to an example application of GAN (Generative Adversarial Networks). The goal is to generate characters automatically. The database used for training the neural network was MNIST (handwritten digit data). The practical example was implemented in Jupyter Notebook. I used TensorFlow 2.0 and Python 3.
